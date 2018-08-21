@@ -2,3 +2,8 @@
     background-color: white;
     font-family: Arial, sans-serif;
 }
+
+#top-banner-wrapper {
+    width: 100%;
+    height: 90px;
+}
